@@ -1,0 +1,2 @@
+terminals:
+  ['cd StudentAPI && mvn spring-boot:run', 'cd frontend && bun install && bun run dev']
